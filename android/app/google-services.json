@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "89488273604",
+    "project_id": "colorlab-d9ff8",
+    "storage_bucket": "colorlab-d9ff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89488273604:android:43c8dd5f4d833fc8a3d991",
+        "android_client_info": {
+          "package_name": "com.example.color_pages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89488273604-j7mf0e6dtkkj20krr2plg938922r508c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9CUWgzhqlpoiRP1A7h2gTNN8-1jsAfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89488273604-j7mf0e6dtkkj20krr2plg938922r508c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89488273604-m0761k4llho5h7qhfen54qu7qbnlvu7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.colorPages"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89488273604:android:357c29d0f000602ca3d991",
+        "android_client_info": {
+          "package_name": "com.example.lab09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89488273604-j7mf0e6dtkkj20krr2plg938922r508c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9CUWgzhqlpoiRP1A7h2gTNN8-1jsAfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89488273604-j7mf0e6dtkkj20krr2plg938922r508c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89488273604-m0761k4llho5h7qhfen54qu7qbnlvu7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.colorPages"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
